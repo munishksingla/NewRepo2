@@ -1,2 +1,4 @@
 new file test
 I am just testing my first checkin
+
+testing with bug
