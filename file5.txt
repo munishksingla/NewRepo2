@@ -1,2 +1,8 @@
 new file test
+<<<<<<< HEAD
 I am just testing my first checkin
+=======
+I am just testing my first checkin
+
+testing with bug
+>>>>>>> Bug-419
